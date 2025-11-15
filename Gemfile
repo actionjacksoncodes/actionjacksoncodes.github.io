@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'github-pages'
+gem 'connection_pool', '2.5.0'
+gem 'tzinfo', '>= 2.0'
+gem 'tzinfo-data', platforms: [:windows]
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
@@ -7,7 +12,5 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'wdm', '>= 0.1.0', platforms: :windows
 end
-
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
