@@ -4,8 +4,8 @@
 title: "Decadent Heroism"
 name: &name "Jackson Paslay"
 description: &description "Jackson Paslay's academic portfolio"
-url: "https://decadentheroism.github.io"
-baseurl: "decadentheroism.github.io/blog"  # leave empty for user pages
+url: "https://actionjacksoncodes.github.io/decadentheroism.github.io/"
+baseurl: "decadentheroism.github.io"  # leave empty for user pages
 remote_theme: "academicpages/academicpages"
 repository: "https://github.com/decadentheroism/decadentheroism.github.io"
 locale: "en-US"
