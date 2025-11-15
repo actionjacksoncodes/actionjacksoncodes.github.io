@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* Exchange Student, University of Potsdam, Germany, American Studies and Philosophy 2024-2026
-* B.A. in Philosophy and English Literature with a Minor in Classics 2022-2026
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
@@ -60,5 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* President of Augustana's Writers' Guild 
-* Lead DJ and Vice President of The Record Club
+* Currently signed in to 43 different slack teams
