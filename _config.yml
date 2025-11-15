@@ -4,10 +4,10 @@
 title: "Decadent Heroism"
 name: &name "Jackson Paslay"
 description: &description "Jackson Paslay's academic portfolio"
-url: "https://actionjacksoncodes.github.io/decadentheroism.github.io/"
-baseurl: "decadentheroism.github.io"  # leave empty for user pages
+url: "https://actionjacksoncodes.github.io"  # User page URL
+baseurl: ""  # Leave empty for user pages
 remote_theme: "academicpages/academicpages"
-repository: "https://github.com/decadentheroism/decadentheroism.github.io"
+repository: "https://github.com/actionjacksoncodes/actionjacksoncodes.github.io"
 locale: "en-US"
 
 # -------------------------
@@ -20,7 +20,7 @@ author:
   bio: "Short biography for your sidebar"
   location: "Sioux Falls, South Dakota and Potsdam, Germany"
   university: "Augustana University"
-  uri: "https://decadentheroism.github.io"
+  uri: "https://actionjacksoncodes.github.io"
   email: "jpaslay22@ole.augie.edu"
 
   # Social / Academic Profiles
